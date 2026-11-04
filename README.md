@@ -15,7 +15,7 @@ Currently writing my master's thesis on timing for the **LHCb PicoCal**, the ele
 A self-contained C++17 / Qt6 / ROOT application for the Struck SIS3316-250-14 digitizer (16 channels, 250 MS/s, 14 bit): live acquisition, full hardware configuration, FPGA look-up-table coincidence triggering, direct-to-ROOT recording and offline analysis in a single program.
 
 **[OIMD-NaI](https://github.com/yskarakas/OIMD-NaI)**<br>
-Simulation and data behind *Optical-input model dependence in Geant4 light-collection corrections: a NaI(Tl) case study* (Y. S. Karakaş, Ö. Beysi; manuscript in preparation). A containerised Geant4 11.4 application, the published run records, and scripts that regenerate every simulated number in the paper.
+Simulation and data behind *Optical-input model dependence in Geant4 light-collection corrections: a NaI(Tl) case study* (Y. S. Karakaş, Ö. Beysi; manuscript in preparation). A containerised Geant4 11.4 application, its run records, and scripts that regenerate every simulated number in the manuscript.
 
 **Reflective coatings and scintillator efficiency** · TÜBİTAK 2209-A<br>
 Geant4 simulation set against measurement: how diffuse and specular reflectors change light collection in organic and inorganic scintillators. Presented at [YEFIST 2025](https://indico.cern.ch/event/1532019/contributions/6526620/) and at the 11th BCD ISHEP Cargèse School (2026).
